@@ -20,7 +20,7 @@ Our products serve **hundreds of thousands of users worldwide** across industrie
 
 ## 🧠 Our Team  
 
-### ⚙️ Saeed Elnahas — Backend Lead  
+### ⚙️ Saeed AbdElftah — Backend Lead  
 - Node.js · Ruby  
 - Enterprise systems & integrations  
 - Payment systems & APIs  
@@ -28,7 +28,7 @@ Our products serve **hundreds of thousands of users worldwide** across industrie
 
 ---
 
-### 🖥️ Ahmed Ali — Full Stack Lead  
+### 🖥️ Ahmed Ramadan — Full Stack Lead  
 - React · Next.js · Node.js  
 - Scalable SaaS & modern web apps  
 - Advanced UI & performance optimization  
